@@ -1,3 +1,3 @@
 # GCPDemo
-## Growexx
+## Growex
 
